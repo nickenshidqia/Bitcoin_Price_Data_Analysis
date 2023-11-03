@@ -85,7 +85,7 @@ Access close daily price :
 Create daily change in percentage :  
 <img src="Picture/change.png" alt="table" width = "400"/>
 
-Create interactive plot daily change :
+Create interactive plot daily change :  
 <img src="Picture/cufflink.png" alt="graph" width = "600"/>
 
 **Insight :**

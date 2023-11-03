@@ -12,7 +12,7 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 
 ## Tools & Library Used
 
-[<img src="Picture/jupyter-logo.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
+[<img src="Picture/python-logo.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
 [<img src="Picture/jupyter-logo.png" alt="jupyter-logo" width="50"/>](https://jupyter.org/) &nbsp;
 
 [<img src="Picture/pandas-logo.png" alt="pandas-logo" width="70"/>](https://pandas.pydata.org/) &nbsp;
@@ -68,13 +68,13 @@ Create the linear scale and log scale for close price
 
 Create resample average close price on yearly, monthly, and quarterly :
 
-Plot resample average close price on **yearly** :
+Plot resample average close price on **yearly** :  
 <img src="Picture/yearly.png" alt="graph" width = "350"/>
 
-Plot resample average close price on **monthly** :
+Plot resample average close price on **monthly** :  
 <img src="Picture/monthly.png" alt="graph" width = "350"/>
 
-Plot resample average close price on **quarterly** :
+Plot resample average close price on **quarterly** :  
 <img src="Picture/quarterly.png" alt="graph" width = "350"/>
 
 ### Analyzing Daily Change In Closing Price of Bitcoin

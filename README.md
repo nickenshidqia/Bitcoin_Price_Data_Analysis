@@ -12,7 +12,7 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 
 ## Tools & Library Used
 
-[<img src="./picture/python-logo-2.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
+[<img src="Picture/jupyter-logo.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
 [<img src="./picture/jupyter-logo.png" alt="jupyter-logo" width="50"/>](https://jupyter.org/) &nbsp;
 
 [<img src="./picture/pandas-logo.png" alt="pandas-logo" width="70"/>](https://pandas.pydata.org/) &nbsp;

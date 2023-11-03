@@ -12,7 +12,7 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 
 ## Tools & Library Used
 
-[<img src="Picture/python-logo.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
+[<img src="Picture/python-logo-2.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
 [<img src="Picture/jupyter-logo.png" alt="jupyter-logo" width="50"/>](https://jupyter.org/) &nbsp;
 
 [<img src="Picture/pandas-logo.png" alt="pandas-logo" width="70"/>](https://pandas.pydata.org/) &nbsp;
@@ -31,10 +31,10 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 
 ### Analyzing Change in Price of The Bitcoin Overtime
 
-Create new dataset that includes Date, Open, High, Low, Close, Volume, Market Cap.
+Create new dataset that includes Date, Open, High, Low, Close, Volume, Market Cap.  
 <img src="Picture/table1.png" alt="table" width = "500"/>
 
-Then plot Open, High, Low, Close price into the line chart.
+Then plot Open, High, Low, Close price into the line chart.  
 <img src="Picture/graph1.png" alt="price" width = "600"/>
 
 **Insight :**  

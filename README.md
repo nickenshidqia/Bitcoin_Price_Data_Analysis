@@ -13,13 +13,13 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 ## Tools & Library Used
 
 [<img src="Picture/jupyter-logo.png" alt="python-logo" width="50"/>](https://www.python.org/) &nbsp;
-[<img src="./picture/jupyter-logo.png" alt="jupyter-logo" width="50"/>](https://jupyter.org/) &nbsp;
+[<img src="Picture/jupyter-logo.png" alt="jupyter-logo" width="50"/>](https://jupyter.org/) &nbsp;
 
-[<img src="./picture/pandas-logo.png" alt="pandas-logo" width="70"/>](https://pandas.pydata.org/) &nbsp;
-[<img src="./picture/numpy-logo.png" alt="numpy-logo" width="100"/>](https://numpy.org/) &nbsp;
-[<img src="./picture/seaborn2-logo.png" alt="seaborn-logo"  width="50"/>](https://seaborn.pydata.org/) &nbsp;
-[<img src="./picture/matplotlib-logo2.png" alt="matplotlib-logo"  width="50"/>](https://matplotlib.org/) &nbsp;
-[<img src="./picture/Plotly-logo.png" alt="plotly-logo"  width="100"/>](https://plotly.com/python/heatmaps/) &nbsp;
+[<img src="Picture/pandas-logo.png" alt="pandas-logo" width="70"/>](https://pandas.pydata.org/) &nbsp;
+[<img src="Picture/numpy-logo.png" alt="numpy-logo" width="100"/>](https://numpy.org/) &nbsp;
+[<img src="Picture/seaborn2-logo.png" alt="seaborn-logo"  width="50"/>](https://seaborn.pydata.org/) &nbsp;
+[<img src="Picture/matplotlib-logo2.png" alt="matplotlib-logo"  width="50"/>](https://matplotlib.org/) &nbsp;
+[<img src="Picture/Plotly-logo.png" alt="plotly-logo"  width="100"/>](https://plotly.com/python/heatmaps/) &nbsp;
 
 ## Dataset Used
 
@@ -32,10 +32,10 @@ Data analyst got a project to analyze price of Bitcoin to get insight from this 
 ### Analyzing Change in Price of The Bitcoin Overtime
 
 Create new dataset that includes Date, Open, High, Low, Close, Volume, Market Cap.
-<img src="./Picture/table1.png" alt="table" width = "500"/>
+<img src="Picture/table1.png" alt="table" width = "500"/>
 
 Then plot Open, High, Low, Close price into the line chart.
-<img src="./Picture/graph1.png" alt="price" width = "600"/>
+<img src="Picture/graph1.png" alt="price" width = "600"/>
 
 **Insight :**  
 For each price for Open, High, Low, and Close, there are spike in 2014 and 2017.
@@ -43,7 +43,7 @@ For each price for Open, High, Low, and Close, there are spike in 2014 and 2017.
 ### Analyzing Bitcoin Price Using Candle-Stick Chart
 
 Create sample data from bitcoin dataset. Then create candle stick, where the x-axis is 'Date' and price data = 'High', 'Open', 'Close', 'Low'.
-<img src="./Picture/candle.png" alt="candle stick" width = "600"/>
+<img src="Picture/candle.png" alt="candle stick" width = "600"/>
 
 **Insight :**  
 On 1 May 2013, we got the result that:
@@ -56,7 +56,7 @@ On 1 May 2013, we got the result that:
 ### Analyzing Closing Price in depth
 
 Create the linear scale and log scale for close price
-<img src="./Picture/logscale.png" alt="candle stick" width = "700"/>
+<img src="Picture/logscale.png" alt="candle stick" width = "700"/>
 
 **Insight :**
 
@@ -69,24 +69,24 @@ Create the linear scale and log scale for close price
 Create resample average close price on yearly, monthly, and quarterly :
 
 Plot resample average close price on **yearly** :
-<img src="./Picture/yearly.png" alt="graph" width = "350"/>
+<img src="Picture/yearly.png" alt="graph" width = "350"/>
 
 Plot resample average close price on **monthly** :
-<img src="./Picture/monthly.png" alt="graph" width = "350"/>
+<img src="Picture/monthly.png" alt="graph" width = "350"/>
 
 Plot resample average close price on **quarterly** :
-<img src="./Picture/quarterly.png" alt="graph" width = "350"/>
+<img src="Picture/quarterly.png" alt="graph" width = "350"/>
 
 ### Analyzing Daily Change In Closing Price of Bitcoin
 
 Access close daily price :  
-<img src="./Picture/close.png" alt="table" width = "250"/>
+<img src="Picture/close.png" alt="table" width = "250"/>
 
 Create daily change in percentage :  
-<img src="./Picture/change.png" alt="table" width = "400"/>
+<img src="Picture/change.png" alt="table" width = "400"/>
 
 Create interactive plot daily change :
-<img src="./Picture/cufflink.png" alt="graph" width = "600"/>
+<img src="Picture/cufflink.png" alt="graph" width = "600"/>
 
 **Insight :**
 
